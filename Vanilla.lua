@@ -57,3 +57,5 @@ function vl.read(filepath)
 		end
 	end
 end
+
+return nil
